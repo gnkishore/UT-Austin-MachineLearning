@@ -6,6 +6,8 @@ Notebooks:
 
 Data: `data/SuperKart.csv`
 
+**Try the live demo:** https://huggingface.co/spaces/gnkishore/SuperKart-Frontend
+
 ## Problem
 
 SuperKart runs supermarkets and food marts across tier-1, tier-2, and tier-3 cities. The business wants quarterly product-store sales forecasts to drive inventory procurement and regional sales strategy — reducing both stockouts and overstock.
